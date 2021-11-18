@@ -5,3 +5,5 @@ A merged collection of two spelling dictionaries:
 
 It can be used when a software (ex TeXstudio) can't have two or more spelling dictionaries at the same time.
 I used [this software](https://code.google.com/archive/p/hunspell-merge/downloads) to merge the dictionaries.
+
+The provided files are in .aff and .dic file format.
